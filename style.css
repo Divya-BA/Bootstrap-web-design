@@ -1,0 +1,20 @@
+
+.box-part{
+    text-align: center;
+    background-color: white;
+    padding:40px 5px ;
+    margin:30px 0px;
+   
+
+}
+
+i{
+    color: lightskyblue;
+}
+.row{
+    margin: 40px;
+   
+}
+.box{
+    padding: 60px 0px;
+}
